@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <bean id="bankEmployee" class="org.example.BankEmployee">
+        <property name="id" value="1"/>
+        <property name="name" value="Vivek"/>
+        <property name="skills">
+            <set>
+                <value>Java</value>
+                <value>Spring</value>
+                <value>Hibernate</value>
+            </set>
+        </property>
+        <property name="achievements">
+            <map>
+                <entry key="2019" value="Employee of the Year"/>
+                <entry key="2020" value="Best Performance Award"/>
+            </map>
+        </property>
+    </bean>
+
+</beans>

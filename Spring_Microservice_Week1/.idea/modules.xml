@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FunctionalInterfaceWithStaticAndDefault/FunctionalInterfaceWithStaticAndDefault.iml" filepath="$PROJECT_DIR$/FunctionalInterfaceWithStaticAndDefault/FunctionalInterfaceWithStaticAndDefault.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortAndSeekDemo/SortAndSeekDemo.iml" filepath="$PROJECT_DIR$/SortAndSeekDemo/SortAndSeekDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring_Microservice_Week1.iml" filepath="$PROJECT_DIR$/.idea/Spring_Microservice_Week1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamPracticeQuestion/StreamPracticeQuestion.iml" filepath="$PROJECT_DIR$/StreamPracticeQuestion/StreamPracticeQuestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparableDemo/comparableDemo.iml" filepath="$PROJECT_DIR$/comparableDemo/comparableDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formaterDemo/formaterDemo.iml" filepath="$PROJECT_DIR$/formaterDemo/formaterDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functionalInterfaceDemo/functionalInterfaceDemo.iml" filepath="$PROJECT_DIR$/functionalInterfaceDemo/functionalInterfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optionalDemo/optionalDemo.iml" filepath="$PROJECT_DIR$/optionalDemo/optionalDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recordDemo/recordDemo.iml" filepath="$PROJECT_DIR$/recordDemo/recordDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streamApiDemo/streamApiDemo.iml" filepath="$PROJECT_DIR$/streamApiDemo/streamApiDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringTokenizerDemo/stringTokenizerDemo.iml" filepath="$PROJECT_DIR$/stringTokenizerDemo/stringTokenizerDemo.iml" />
+    </modules>
+  </component>
+</project>
